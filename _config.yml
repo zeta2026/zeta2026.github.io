@@ -1,0 +1,54 @@
+title: 6th Intl Workshop on Zeta Functions in Algebra & Geometry
+description: 8–12 June 2026 · University of Galway
+baseurl: ""
+url: "https://zeta2026.github.io"
+
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+atom_feed:
+  hide: true
+
+nav:
+  - title: About
+    url: /about/
+
+include:
+  - _pages
+  - _data
+  - _includes
+  - assets/css
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_image: /assets/img/hero.jpg
+        overlay_filter: 0.35
+        overlay_color: "#000"
+
+collections:
+  talks:
+    output: false
+    permalink: /talks/:title/
+
+copyright: "The Organisers"
+
+exclude:
+  - vendor/
+  - node_modules/
+  - .bundle/
+  - .jekyll-cache/
+  - .sass-cache/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - README.md

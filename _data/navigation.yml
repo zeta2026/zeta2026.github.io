@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Funders"
+    url: /funders/
+  - title: "Previous meetings"
+    url: /previous/

@@ -1,0 +1,29 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler & Ruby artifacts
+vendor/
+.bundle/
+Gemfile.lock
+
+# Node / npm (if you ever use JS tooling)
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+
+# Optional: ignore drafts (if you keep unpublished posts)
+_drafts/
+
+# Emacs backups
+\#*\#
+*~
