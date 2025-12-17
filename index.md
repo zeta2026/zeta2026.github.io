@@ -35,4 +35,5 @@ Organisers:
   <a href="https://dfg.de/"><img
   src="{{ '/assets/img/dfg_logo_englisch_blau_en.jpg' | relative_url}}" alt="DFG" style="height:60px; margin:10px 20px; vertical-align:middle;"></a>
   <a href="https://trr358.math.uni-bielefeld.de/"><img src="{{ '/assets/img/TRR358.png' | relative_url}}" alt="TRR 358" style="height:60px; margin:10px 20px; vertical-align:middle;"></a>
+  <a href="https://www.irishmathsoc.org/"><img src="{{ '/assets/img/IMS.png' | relative_url}}" alt="IMS" style="height:60px; margin:10px 20px; vertical-align:middle;"></a>
 </div>
