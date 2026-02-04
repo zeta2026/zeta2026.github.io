@@ -8,9 +8,26 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/img/hero.jpg
   actions:
-    - label: "Registration opens in 2026"
-      url: "#"
+    - label: "Register"
+      url: "/registration/"
 ---
+
+# Registration
+
+**[Registration](/registration/) is now open and will close on 15 April
+2026**.
+There is no registration fee.
+However, registration is required so that we can estimate participant numbers
+for catering purposes.
+
+When registering, please consider submitting a proposal for a contributed talk
+or a poster. The deadline for contributed talk and poster proposals is
+**15 March 2026**, and we plan to notify selected presenters by the end of
+March 2026.
+
+We look forward to welcoming you to Galway!
+
+# Topics
 
 Topics of the workshop include:
 
@@ -22,7 +39,8 @@ Topics of the workshop include:
 The meeting will feature invited surveys, invited research talks, contributed
 talks, and a poster session.
 
-Organisers:
+### Organisers
+
 * [Angela Carnevale](https://angelacarnevale.github.io/) (University of Galway)
 * [Robert Osburn](https://robertosburn.github.io/) (University College Cork)
 * [Tobias Rossmann](https://torossmann.github.io/) (University of Galway)
