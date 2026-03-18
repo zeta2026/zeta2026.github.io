@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: Draft schedule
-permalink: /schedule/
+title: Draft schedule A
+permalink: /schedule-a/
 ---
 
-{% assign days = site.data.schedule.days %}
+{% assign days = site.data.schedule-a.days %}
 {% for day in days %}
 ## {{ day.label }}
 
