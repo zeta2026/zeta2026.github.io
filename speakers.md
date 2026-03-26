@@ -6,7 +6,7 @@ permalink: /speakers/
 
 Invited survey talks will be given by:
 
-* [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown) (University of Oxford) [TBC]
+* [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown) (University of Oxford)
 * [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/) (University of Lille & KU Leuven)
 * [Joshua Maglione](https://joshmaglione.com/) (University of Galway)
 * [Wilson Zúñiga-Galindo](https://www.researchgate.net/profile/W-Zuniga-Galindo) (University of Texas Rio Grande Valley)
