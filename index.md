@@ -14,16 +14,11 @@ header:
 
 # Registration
 
-**[Registration](/registration/) is now open and will close on 15 April
-2026**.
+**[Registration](/registration/) is open.**.
 There is no registration fee.
 However, registration is required so that we can estimate participant numbers
 for catering purposes.
 
-When registering, please consider submitting a proposal for a contributed talk
-or a poster. The deadline for contributed talk and poster proposals is
-**15 March 2026**, and we plan to notify selected presenters by the end of
-March 2026.
 
 We look forward to welcoming you to Galway!
 
