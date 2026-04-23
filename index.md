@@ -14,7 +14,7 @@ header:
 
 # Registration
 
-**[Registration](/registration/) is open.**.
+**[Registration](/registration/) is open.**
 There is no registration fee.
 However, registration is required so that we can estimate participant numbers
 for catering purposes.
