@@ -11,7 +11,7 @@ abstract: >
   algebra and Hopf algebra structures. In particular, we completely solve a
   problem suggested by Deligne and Thakur in 2017 and establish Shi’s
   conjectures. The construction of the stuffle algebra is based on our work on
-  Zagier-Hoffman's conjectures in positive characterisitc. Also we have
+  Zagier-Hoffman's conjectures in positive characteristic. Also we have
   extened our result for alternating MZV's. This is a joint work with Kim, Le,
   Ngo Dac, and Pham.
 sort_key: "Im, Bo-Hae"
