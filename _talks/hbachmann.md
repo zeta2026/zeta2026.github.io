@@ -2,7 +2,7 @@
 title: "Relations and derivatives of multiple Eisenstein series"
 speaker: Henrik Bachmann
 affiliation: Nagoya University
-abstract: >
+abstract: |
   Multiple Eisenstein series are holomorphic functions on the upper half-plane
   that can be viewed as hybrids of classical Eisenstein series and multiple
   zeta values. The latter satisfy the double shuffle relations, which are

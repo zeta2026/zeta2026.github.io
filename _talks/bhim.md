@@ -2,7 +2,7 @@
 title: "Hopf algebras and multiple zeta values in positive characteristic"
 speaker: Bo-Hae Im
 affiliation: KAIST (Korea Advanced Institute of Science and Technology)
-abstract: >
+abstract: |
   Multiples zeta values (MZV's for short) in positive characteristic were
   introduced by Thakur as analogues of classical multiple zeta values of
   Euler. In this talk we give a systematic study of algebraic structures of

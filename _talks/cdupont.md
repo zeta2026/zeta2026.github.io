@@ -1,8 +1,8 @@
 ---
 title: Multiple zeta values, symmetries, and graphs
 speaker: Clément Dupont
-affiliation: KU Leuven
-abstract: >
+affiliation: University of Montpellier
+abstract: |
   In this talk I will report on work in progress (joint with Erik Panzer and
   Brent Pym) on the graphical structures underlying the symmetries of multiple
   zeta values. Our work aims at understanding:
