@@ -20,7 +20,7 @@ Invited research talks will be given by:
 * [Clément Dupont](https://imag.umontpellier.fr/~dupont/) (University of Montpellier)
 * [Bo-Hae Im](https://sites.google.com/view/imbh/home) (KAIST)
 * [Steffen Kionke](https://sites.google.com/view/steffenkionke/) (University of Hagen)
-* [Maki Nakasuji](https://pweb.cc.sophia.ac.jp/nakasuji/) (Sophia University & Tohoku University)
+* [Maki Nakasuji](https://pweb.cc.sophia.ac.jp/nakasuji/) (Sophia University)
 * [Uri Onn](https://maths.anu.edu.au/people/uri-onn) (Australian National University)
 * [Pooja Singla](https://sites.google.com/site/poojasingla7/Home) (IIT Kanpur)
 * [Juan Viu-Sos](https://jviusos.github.io/) (Technical University of Madrid)

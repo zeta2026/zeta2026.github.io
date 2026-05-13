@@ -1,7 +1,7 @@
 ---
 title: "On multiple zeta values with combinatorial structure"
 speaker: Maki Nakasuji
-affiliation: "Sophia University & Tohoku University"
+affiliation: "Sophia University"
 abstract: |
   Multiple zeta values have been studied at least since Euler, who found many of their algebraic properties. 
   

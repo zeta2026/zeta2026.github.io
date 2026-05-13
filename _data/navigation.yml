@@ -3,11 +3,11 @@ main:
     url: /
   - title: "Speakers"
     url: /speakers/
-  - title: "Registration"
-    url: /registration/
   - title: "Travel & Stay"
     url: /travel/
   - title: "Funders"
     url: /funders/
+  - title: "Registration"
+    url: /registration/
   - title: "Previous meetings"
     url: /previous/
