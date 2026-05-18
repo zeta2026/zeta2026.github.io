@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Speakers"
     url: /speakers/
+  - title: "Abstracts"
+    url: /abstracts/
   - title: "Travel & Stay"
     url: /travel/
   - title: "Funders"
