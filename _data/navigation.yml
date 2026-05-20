@@ -5,10 +5,12 @@ main:
     url: /speakers/
   - title: "Abstracts"
     url: /abstracts/
-  - title: "Travel & Stay"
-    url: /travel/
+  - title: "Schedule"
+    url: /schedule/
   - title: "Funders"
     url: /funders/
+  - title: "Travel & Stay"
+    url: /travel/
   - title: "Registration"
     url: /registration/
   - title: "Previous meetings"
