@@ -1,7 +1,7 @@
 ---
 title: Multiple Dirichlet series and naive duality
 speaker: Adam Keilthy
-affiliation: University of Galway
+affiliation: Trinity College Dublin
 abstract: |
   The standard example of multiple Dirichlet series are multiple zeta values,
   which can equivalently be defined via an iterated sum or an iterated
