@@ -1,5 +1,5 @@
 ---
-title: A reinforcement learning approach to computing zeta functions of groups and algebras
+title: "A reinforcement learning approach to computing zeta functions of groups and algebras"
 speaker: Anton Baykalov
 affiliation: University of Galway
 abstract: |
