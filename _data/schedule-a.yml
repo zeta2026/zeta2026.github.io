@@ -25,8 +25,7 @@ days:
     label: Tuesday, 9 June
     sessions:
       - time: "09:30–10:30"
-        speaker: Francis Brown
-        title: TBA
+        talk_ref: fbrown
       - time: "10:30–11:00"
         title: "Coffee / tea"
       - time: "11:00–11:45"
