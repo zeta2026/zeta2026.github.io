@@ -11,7 +11,5 @@ main:
     url: /funders/
   - title: "Travel & Stay"
     url: /travel/
-  - title: "Registration"
-    url: /registration/
   - title: "Previous meetings"
     url: /previous/

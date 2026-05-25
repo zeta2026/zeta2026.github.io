@@ -13,7 +13,7 @@ days:
       - time: "13:00"
         title: "Lunch"
       - time: "15:00–16:00"
-        speaker: "Raf Cluckers"
+        talk_ref: rcluckers
         title: TBA
       - time: "16:00-16:30"
         title: "Coffee / tea"

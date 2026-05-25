@@ -7,16 +7,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/img/hero.jpg
-  actions:
-    - label: "Register"
-      url: "/registration/"
 ---
 
-# Registration
+<!-- # Registration -->
 
-**[Registration](/registration/) is open.**
-Registration is required so that we can estimate participant numbers
-for catering purposes.
+<!-- **[Registration](/registration/) is open.** -->
+<!-- Registration is required so that we can estimate participant numbers -->
+<!-- for catering purposes. -->
 
 
 We look forward to welcoming you to Galway!
