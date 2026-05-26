@@ -89,5 +89,4 @@ days:
       - time: "11:00–11:45"
         talk_ref: hbachmann
       - time: "12:00–12:45"
-        speaker: "Dimitri Wyss"
-        title: TBA
+        talk_ref: dwyss
