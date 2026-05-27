@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: Draft schedule
+title: Schedule
 permalink: /schedule/
 ---
 
-All talks will place in room **AC201** (University of Galway, Arts & Science
+All talks will take place in room **AC201** (University of Galway, Arts & Science
 Concourse)
 ([Google Maps](https://maps.app.goo.gl/5PH9HdYRoqzZCWyr5), [campus map](https://www.universityofgalway.ie/media/mindfulway/files/Map-showing-room-AC201.pdf)).
 
