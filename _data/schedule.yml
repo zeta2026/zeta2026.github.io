@@ -48,8 +48,7 @@ days:
     label: Wednesday, 10 June
     sessions:
       - time: "09:30–10:15"
-        speaker: Uri Onn
-        title: TBA
+        talk_ref: uonn
       - time: "10:15–10:45"
         title: "Coffee / tea"
       - time: "10:45–11:05"
