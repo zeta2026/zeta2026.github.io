@@ -21,3 +21,11 @@ At the time of writing, the University of Galway's
 provides an affordable and conveniently located alternative to standard
 platforms such as
 [Booking.com](https://www.booking.com/) and [Airbnb](https://www.airbnb.ie/).
+
+# Tourism
+
+There will be no talks on Wednesday afternoon.
+While there is no organised excursion, the following options might be of interest to you:
+
+* [Cliffs of Moher Half Day Tour](https://www.paddywagontours.com/afternoon-cliffs-of-moher-half-day-tour-from-galway)
+* [1.5 Hour Sightseeing River Cruise](https://corribprincess.ie/)
