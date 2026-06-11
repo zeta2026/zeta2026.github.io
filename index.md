@@ -15,8 +15,14 @@ header:
 <!-- Registration is required so that we can estimate participant numbers -->
 <!-- for catering purposes. -->
 
-
 We look forward to welcoming you to Galway!
+
+<figure class="align-center">
+  <img src="{{ '/assets/img/participants.jpg' | relative_url }}"
+       alt="Participants of the Sixth International Workshop on Zeta Functions in Algebra and Geometry, Galway, June 2026"
+       style="max-width: 75%; height: auto;">
+  <figcaption>Participants of the Sixth International Workshop on Zeta Functions in Algebra and Geometry, Galway, June 2026.</figcaption>
+</figure>
 
 # Topics
 
